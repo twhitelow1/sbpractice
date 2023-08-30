@@ -1,0 +1,15 @@
+C:\Users\DUICE\Software-Development\snow-buddies\snow-buddies.application\bin\Debug\net7.0\snow-buddies.application.deps.json
+C:\Users\DUICE\Software-Development\snow-buddies\snow-buddies.application\bin\Debug\net7.0\snow-buddies.application.dll
+C:\Users\DUICE\Software-Development\snow-buddies\snow-buddies.application\bin\Debug\net7.0\snow-buddies.application.pdb
+C:\Users\DUICE\Software-Development\snow-buddies\snow-buddies.application\obj\Debug\net7.0\snow-buddies.application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DUICE\Software-Development\snow-buddies\snow-buddies.application\obj\Debug\net7.0\snow-buddies.application.AssemblyInfoInputs.cache
+C:\Users\DUICE\Software-Development\snow-buddies\snow-buddies.application\obj\Debug\net7.0\snow-buddies.application.AssemblyInfo.cs
+C:\Users\DUICE\Software-Development\snow-buddies\snow-buddies.application\obj\Debug\net7.0\snow-buddies.application.csproj.CoreCompileInputs.cache
+C:\Users\DUICE\Software-Development\snow-buddies\snow-buddies.application\obj\Debug\net7.0\snow-buddies.application.dll
+C:\Users\DUICE\Software-Development\snow-buddies\snow-buddies.application\obj\Debug\net7.0\refint\snow-buddies.application.dll
+C:\Users\DUICE\Software-Development\snow-buddies\snow-buddies.application\obj\Debug\net7.0\snow-buddies.application.pdb
+C:\Users\DUICE\Software-Development\snow-buddies\snow-buddies.application\obj\Debug\net7.0\ref\snow-buddies.application.dll
+C:\Users\DUICE\Software-Development\snow-buddies\snow-buddies.application\bin\Debug\net7.0\snow-buddies.domain.dll
+C:\Users\DUICE\Software-Development\snow-buddies\snow-buddies.application\bin\Debug\net7.0\snow-buddies.domain.pdb
+C:\Users\DUICE\Software-Development\snow-buddies\snow-buddies.application\obj\Debug\net7.0\snow-buddies.application.csproj.AssemblyReference.cache
+C:\Users\DUICE\Software-Development\snow-buddies\snow-buddies.application\obj\Debug\net7.0\snow-buddies.application.csproj.CopyComplete

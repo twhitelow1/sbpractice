@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "snow-buddies.application/1.0.0": {
+        "dependencies": {
+          "snow-buddies.domain": "1.0.0"
+        },
+        "runtime": {
+          "snow-buddies.application.dll": {}
+        }
+      },
+      "snow-buddies.domain/1.0.0": {
+        "runtime": {
+          "snow-buddies.domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "snow-buddies.application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "snow-buddies.domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
