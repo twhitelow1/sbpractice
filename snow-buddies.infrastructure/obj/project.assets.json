@@ -1089,11 +1089,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "c:\\Users\\DUICE\\Software-Development\\snow-buddies\\snow-buddies.application\\snow-buddies.application.csproj": {
-              "projectPath": "c:\\Users\\DUICE\\Software-Development\\snow-buddies\\snow-buddies.application\\snow-buddies.application.csproj"
+            "C:\\Users\\DUICE\\Software-Development\\snow-buddies\\snow-buddies.application\\snow-buddies.application.csproj": {
+              "projectPath": "C:\\Users\\DUICE\\Software-Development\\snow-buddies\\snow-buddies.application\\snow-buddies.application.csproj"
             },
-            "c:\\Users\\DUICE\\Software-Development\\snow-buddies\\snow-buddies.domain\\snow-buddies.domain.csproj": {
-              "projectPath": "c:\\Users\\DUICE\\Software-Development\\snow-buddies\\snow-buddies.domain\\snow-buddies.domain.csproj"
+            "C:\\Users\\DUICE\\Software-Development\\snow-buddies\\snow-buddies.domain\\snow-buddies.domain.csproj": {
+              "projectPath": "C:\\Users\\DUICE\\Software-Development\\snow-buddies\\snow-buddies.domain\\snow-buddies.domain.csproj"
             }
           }
         }
