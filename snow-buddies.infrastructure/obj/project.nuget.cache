@@ -1,10 +1,6 @@
 {
   "version": 2,
-<<<<<<< HEAD
-  "dgSpecHash": "IjI7IMgkNzhmpBWHQXNA40jHPvjlosB+J2RwBBYT9dN69xE7LNlwetHZeGi2neXewN+lP8/h10GM2Lhy+np8Iw==",
-=======
-  "dgSpecHash": "hsNduzZI9qe5nf1IHW2kiG8PRKkrWaEE78ibWtdahmtxnPXBUSfyQ8Tr/9qdB+cewjjqlYDDdlpyfvauApybQw==",
->>>>>>> 91353347f9d7198810f4cc9b8a5631128b3a66e1
+  "dgSpecHash": "p71WXYa93YnNPSuhW2ZaozM5uN4IC++O3sGpQS3PvdiZGLcn1AXXLg4/gPfgC1WjyPkG3jWiGbA1OAtM9wq/bQ==",
   "success": true,
   "projectFilePath": "c:\\Users\\Victor Ibanichuka\\OneDrive\\Desktop\\sbpractice\\snow-buddies.infrastructure\\snow-buddies.infrastructure.csproj",
   "expectedPackageFiles": [
@@ -32,5 +28,12 @@
     "C:\\Users\\Victor Ibanichuka\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
     "C:\\Users\\Victor Ibanichuka\\.nuget\\packages\\system.text.json\\7.0.0\\system.text.json.7.0.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file c:\\Users\\Victor Ibanichuka\\OneDrive\\Desktop\\sbpractice\\snow-buddies.infrastructure\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

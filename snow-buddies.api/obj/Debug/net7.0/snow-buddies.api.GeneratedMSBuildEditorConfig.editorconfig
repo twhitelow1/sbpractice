@@ -9,17 +9,9 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = snow_buddies.api
 build_property.RootNamespace = snow_buddies.api
-<<<<<<< HEAD
-build_property.ProjectDir = C:\Users\DUICE\Software-Development\snow-buddies\snow-buddies.api\
-build_property.RazorLangVersion = 7.0
-build_property.SupportLocalizedComponentNames = 
-build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\DUICE\Software-Development\snow-buddies\snow-buddies.api
-=======
 build_property.ProjectDir = c:\Users\Victor Ibanichuka\OneDrive\Desktop\sbpractice\snow-buddies.api\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
 build_property.MSBuildProjectDirectory = c:\Users\Victor Ibanichuka\OneDrive\Desktop\sbpractice\snow-buddies.api
->>>>>>> 91353347f9d7198810f4cc9b8a5631128b3a66e1
 build_property._RazorSourceGeneratorDebug = 

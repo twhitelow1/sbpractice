@@ -1,14 +1,15 @@
 {
   "version": 2,
-<<<<<<< HEAD
-  "dgSpecHash": "x9ZbpQtR2eo5wB0u+RE/KoTHeAMW60z95X1QBSpHCIS4Cf25GUM8dpKM+q0l+OGCyInMdmif2zhcL8BdoGhT3A==",
+  "dgSpecHash": "fdxX4bdeyaVt3AdLDjSV8KUXOO7rJelR+SDpxQLNq4tPettgVmTjzH/R3F6M46HCMGgzEX3TpjUzauIGpWnLDQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\DUICE\\Software-Development\\snow-buddies\\snow-buddies.application\\snow-buddies.application.csproj",
-=======
-  "dgSpecHash": "tcJUWsAQoyOYxUaKg2D/sLzihljc7cQNS7zV8BXUSWRE7PUU3L+t4e0PlGmI6Pcyo6wT27Xj357R3w6Cp7wIGw==",
-  "success": true,
-  "projectFilePath": "C:\\Users\\Victor Ibanichuka\\OneDrive\\Desktop\\sbpractice\\snow-buddies.application\\snow-buddies.application.csproj",
->>>>>>> 91353347f9d7198810f4cc9b8a5631128b3a66e1
+  "projectFilePath": "c:\\Users\\Victor Ibanichuka\\OneDrive\\Desktop\\sbpractice\\snow-buddies.application\\snow-buddies.application.csproj",
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file c:\\Users\\Victor Ibanichuka\\OneDrive\\Desktop\\sbpractice\\snow-buddies.application\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }
