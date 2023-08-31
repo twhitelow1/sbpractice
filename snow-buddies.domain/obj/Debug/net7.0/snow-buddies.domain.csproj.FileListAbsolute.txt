@@ -9,3 +9,14 @@ c:\Users\DUICE\Software-Development\snow-buddies\snow-buddies.domain\obj\Debug\n
 c:\Users\DUICE\Software-Development\snow-buddies\snow-buddies.domain\obj\Debug\net7.0\refint\snow-buddies.domain.dll
 c:\Users\DUICE\Software-Development\snow-buddies\snow-buddies.domain\obj\Debug\net7.0\snow-buddies.domain.pdb
 c:\Users\DUICE\Software-Development\snow-buddies\snow-buddies.domain\obj\Debug\net7.0\ref\snow-buddies.domain.dll
+c:\Users\Victor Ibanichuka\OneDrive\Desktop\sbpractice\snow-buddies.domain\bin\Debug\net7.0\snow-buddies.domain.deps.json
+c:\Users\Victor Ibanichuka\OneDrive\Desktop\sbpractice\snow-buddies.domain\bin\Debug\net7.0\snow-buddies.domain.dll
+c:\Users\Victor Ibanichuka\OneDrive\Desktop\sbpractice\snow-buddies.domain\bin\Debug\net7.0\snow-buddies.domain.pdb
+c:\Users\Victor Ibanichuka\OneDrive\Desktop\sbpractice\snow-buddies.domain\obj\Debug\net7.0\snow-buddies.domain.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Victor Ibanichuka\OneDrive\Desktop\sbpractice\snow-buddies.domain\obj\Debug\net7.0\snow-buddies.domain.AssemblyInfoInputs.cache
+c:\Users\Victor Ibanichuka\OneDrive\Desktop\sbpractice\snow-buddies.domain\obj\Debug\net7.0\snow-buddies.domain.AssemblyInfo.cs
+c:\Users\Victor Ibanichuka\OneDrive\Desktop\sbpractice\snow-buddies.domain\obj\Debug\net7.0\snow-buddies.domain.csproj.CoreCompileInputs.cache
+c:\Users\Victor Ibanichuka\OneDrive\Desktop\sbpractice\snow-buddies.domain\obj\Debug\net7.0\snow-buddies.domain.dll
+c:\Users\Victor Ibanichuka\OneDrive\Desktop\sbpractice\snow-buddies.domain\obj\Debug\net7.0\refint\snow-buddies.domain.dll
+c:\Users\Victor Ibanichuka\OneDrive\Desktop\sbpractice\snow-buddies.domain\obj\Debug\net7.0\snow-buddies.domain.pdb
+c:\Users\Victor Ibanichuka\OneDrive\Desktop\sbpractice\snow-buddies.domain\obj\Debug\net7.0\ref\snow-buddies.domain.dll
