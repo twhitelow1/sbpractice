@@ -1,6 +1,10 @@
 {
   "version": 2,
+<<<<<<< HEAD
+  "dgSpecHash": "IjI7IMgkNzhmpBWHQXNA40jHPvjlosB+J2RwBBYT9dN69xE7LNlwetHZeGi2neXewN+lP8/h10GM2Lhy+np8Iw==",
+=======
   "dgSpecHash": "hsNduzZI9qe5nf1IHW2kiG8PRKkrWaEE78ibWtdahmtxnPXBUSfyQ8Tr/9qdB+cewjjqlYDDdlpyfvauApybQw==",
+>>>>>>> 91353347f9d7198810f4cc9b8a5631128b3a66e1
   "success": true,
   "projectFilePath": "c:\\Users\\Victor Ibanichuka\\OneDrive\\Desktop\\sbpractice\\snow-buddies.infrastructure\\snow-buddies.infrastructure.csproj",
   "expectedPackageFiles": [

@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
+  "dgSpecHash": "/hf5tcmgf3lyCSzIANaV38E7r+fKoS7cS9TTlTmaA3RDkKMmekz/lKMGSsFuxLuN1riOoTSZgUUYHxEtosQi8g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DUICE\\Software-Development\\snow-buddies\\snow-buddies.api\\snow-buddies.api.csproj",
+=======
   "dgSpecHash": "c2h0d0vQFS1lSeNekqgcxH2fZQocp2X3Y3gdIrpqP8z1+W1mshzVgOjREMWJwbV0nOce36CaCVQanhA8kVLt2Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\Victor Ibanichuka\\OneDrive\\Desktop\\sbpractice\\snow-buddies.api\\snow-buddies.api.csproj",
+>>>>>>> 91353347f9d7198810f4cc9b8a5631128b3a66e1
   "expectedPackageFiles": [
     "C:\\Users\\Victor Ibanichuka\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Victor Ibanichuka\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.10\\microsoft.aspnetcore.openapi.7.0.10.nupkg.sha512",

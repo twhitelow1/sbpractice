@@ -1087,11 +1087,19 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
+<<<<<<< HEAD
+            "C:\\Users\\DUICE\\Software-Development\\snow-buddies\\snow-buddies.application\\snow-buddies.application.csproj": {
+              "projectPath": "C:\\Users\\DUICE\\Software-Development\\snow-buddies\\snow-buddies.application\\snow-buddies.application.csproj"
+            },
+            "C:\\Users\\DUICE\\Software-Development\\snow-buddies\\snow-buddies.domain\\snow-buddies.domain.csproj": {
+              "projectPath": "C:\\Users\\DUICE\\Software-Development\\snow-buddies\\snow-buddies.domain\\snow-buddies.domain.csproj"
+=======
             "C:\\Users\\Victor Ibanichuka\\OneDrive\\Desktop\\sbpractice\\snow-buddies.application\\snow-buddies.application.csproj": {
               "projectPath": "C:\\Users\\Victor Ibanichuka\\OneDrive\\Desktop\\sbpractice\\snow-buddies.application\\snow-buddies.application.csproj"
             },
             "C:\\Users\\Victor Ibanichuka\\OneDrive\\Desktop\\sbpractice\\snow-buddies.domain\\snow-buddies.domain.csproj": {
               "projectPath": "C:\\Users\\Victor Ibanichuka\\OneDrive\\Desktop\\sbpractice\\snow-buddies.domain\\snow-buddies.domain.csproj"
+>>>>>>> 91353347f9d7198810f4cc9b8a5631128b3a66e1
             }
           }
         }

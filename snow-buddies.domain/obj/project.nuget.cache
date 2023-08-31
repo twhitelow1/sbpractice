@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
+  "dgSpecHash": "FAJ+PkL1lcNeLV7Cs/TNvK/sLPiydfZiFn4lIwfX/ayCpiRiIumZWMiQxc9W9yH7B5TgH23wb8p2KIUN+xh3aQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DUICE\\Software-Development\\snow-buddies\\snow-buddies.domain\\snow-buddies.domain.csproj",
+=======
   "dgSpecHash": "KS5PiARbQQxAMaEo+2QhwDMXXTtbnVe4QuSjKq2CFNngQM3G2zMQY2nkMXvIM0ghANNNKY/r6CyWXEN40RtyDg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Victor Ibanichuka\\OneDrive\\Desktop\\sbpractice\\snow-buddies.domain\\snow-buddies.domain.csproj",
+>>>>>>> 91353347f9d7198810f4cc9b8a5631128b3a66e1
   "expectedPackageFiles": [],
   "logs": []
 }
