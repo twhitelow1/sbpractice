@@ -1063,37 +1063,35 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\DUICE\\.nuget\\packages\\": {}
+    "C:\\Users\\Victor Ibanichuka\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\DUICE\\Software-Development\\snow-buddies\\snow-buddies.infrastructure\\snow-buddies.infrastructure.csproj",
+      "projectUniqueName": "c:\\Users\\Victor Ibanichuka\\OneDrive\\Desktop\\sbpractice\\snow-buddies.infrastructure\\snow-buddies.infrastructure.csproj",
       "projectName": "snow-buddies.infrastructure",
-      "projectPath": "c:\\Users\\DUICE\\Software-Development\\snow-buddies\\snow-buddies.infrastructure\\snow-buddies.infrastructure.csproj",
-      "packagesPath": "C:\\Users\\DUICE\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\DUICE\\Software-Development\\snow-buddies\\snow-buddies.infrastructure\\obj\\",
+      "projectPath": "c:\\Users\\Victor Ibanichuka\\OneDrive\\Desktop\\sbpractice\\snow-buddies.infrastructure\\snow-buddies.infrastructure.csproj",
+      "packagesPath": "C:\\Users\\Victor Ibanichuka\\.nuget\\packages\\",
+      "outputPath": "c:\\Users\\Victor Ibanichuka\\OneDrive\\Desktop\\sbpractice\\snow-buddies.infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\DUICE\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\Victor Ibanichuka\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "c:\\Users\\DUICE\\Software-Development\\snow-buddies\\snow-buddies.application\\snow-buddies.application.csproj": {
-              "projectPath": "c:\\Users\\DUICE\\Software-Development\\snow-buddies\\snow-buddies.application\\snow-buddies.application.csproj"
+            "C:\\Users\\Victor Ibanichuka\\OneDrive\\Desktop\\sbpractice\\snow-buddies.application\\snow-buddies.application.csproj": {
+              "projectPath": "C:\\Users\\Victor Ibanichuka\\OneDrive\\Desktop\\sbpractice\\snow-buddies.application\\snow-buddies.application.csproj"
             },
-            "c:\\Users\\DUICE\\Software-Development\\snow-buddies\\snow-buddies.domain\\snow-buddies.domain.csproj": {
-              "projectPath": "c:\\Users\\DUICE\\Software-Development\\snow-buddies\\snow-buddies.domain\\snow-buddies.domain.csproj"
+            "C:\\Users\\Victor Ibanichuka\\OneDrive\\Desktop\\sbpractice\\snow-buddies.domain\\snow-buddies.domain.csproj": {
+              "projectPath": "C:\\Users\\Victor Ibanichuka\\OneDrive\\Desktop\\sbpractice\\snow-buddies.domain\\snow-buddies.domain.csproj"
             }
           }
         }
