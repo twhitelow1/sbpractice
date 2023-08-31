@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\DUICE\\Software-Development\\snow-buddies\\snow-buddies.api\\snow-buddies.api.csproj": {}
+    "C:\\Users\\DUICE\\Software-Development\\snow-buddies\\snow-buddies.api\\snow-buddies.api.csproj": {}
   },
   "projects": {
-    "c:\\Users\\DUICE\\Software-Development\\snow-buddies\\snow-buddies.api\\snow-buddies.api.csproj": {
+    "C:\\Users\\DUICE\\Software-Development\\snow-buddies\\snow-buddies.api\\snow-buddies.api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\DUICE\\Software-Development\\snow-buddies\\snow-buddies.api\\snow-buddies.api.csproj",
+        "projectUniqueName": "C:\\Users\\DUICE\\Software-Development\\snow-buddies\\snow-buddies.api\\snow-buddies.api.csproj",
         "projectName": "snow-buddies.api",
-        "projectPath": "c:\\Users\\DUICE\\Software-Development\\snow-buddies\\snow-buddies.api\\snow-buddies.api.csproj",
+        "projectPath": "C:\\Users\\DUICE\\Software-Development\\snow-buddies\\snow-buddies.api\\snow-buddies.api.csproj",
         "packagesPath": "C:\\Users\\DUICE\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\DUICE\\Software-Development\\snow-buddies\\snow-buddies.api\\obj\\",
+        "outputPath": "C:\\Users\\DUICE\\Software-Development\\snow-buddies\\snow-buddies.api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DUICE\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "c:\\Users\\DUICE\\Software-Development\\snow-buddies\\snow-buddies.application\\snow-buddies.application.csproj": {
-                "projectPath": "c:\\Users\\DUICE\\Software-Development\\snow-buddies\\snow-buddies.application\\snow-buddies.application.csproj"
+              "C:\\Users\\DUICE\\Software-Development\\snow-buddies\\snow-buddies.application\\snow-buddies.application.csproj": {
+                "projectPath": "C:\\Users\\DUICE\\Software-Development\\snow-buddies\\snow-buddies.application\\snow-buddies.application.csproj"
               },
               "c:\\Users\\DUICE\\Software-Development\\snow-buddies\\snow-buddies.infrastructure\\snow-buddies.infrastructure.csproj": {
                 "projectPath": "c:\\Users\\DUICE\\Software-Development\\snow-buddies\\snow-buddies.infrastructure\\snow-buddies.infrastructure.csproj"
@@ -85,14 +85,14 @@
         }
       }
     },
-    "c:\\Users\\DUICE\\Software-Development\\snow-buddies\\snow-buddies.application\\snow-buddies.application.csproj": {
+    "C:\\Users\\DUICE\\Software-Development\\snow-buddies\\snow-buddies.application\\snow-buddies.application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\DUICE\\Software-Development\\snow-buddies\\snow-buddies.application\\snow-buddies.application.csproj",
+        "projectUniqueName": "C:\\Users\\DUICE\\Software-Development\\snow-buddies\\snow-buddies.application\\snow-buddies.application.csproj",
         "projectName": "snow-buddies.application",
-        "projectPath": "c:\\Users\\DUICE\\Software-Development\\snow-buddies\\snow-buddies.application\\snow-buddies.application.csproj",
+        "projectPath": "C:\\Users\\DUICE\\Software-Development\\snow-buddies\\snow-buddies.application\\snow-buddies.application.csproj",
         "packagesPath": "C:\\Users\\DUICE\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\DUICE\\Software-Development\\snow-buddies\\snow-buddies.application\\obj\\",
+        "outputPath": "C:\\Users\\DUICE\\Software-Development\\snow-buddies\\snow-buddies.application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DUICE\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -109,8 +109,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "c:\\Users\\DUICE\\Software-Development\\snow-buddies\\snow-buddies.domain\\snow-buddies.domain.csproj": {
-                "projectPath": "c:\\Users\\DUICE\\Software-Development\\snow-buddies\\snow-buddies.domain\\snow-buddies.domain.csproj"
+              "C:\\Users\\DUICE\\Software-Development\\snow-buddies\\snow-buddies.domain\\snow-buddies.domain.csproj": {
+                "projectPath": "C:\\Users\\DUICE\\Software-Development\\snow-buddies\\snow-buddies.domain\\snow-buddies.domain.csproj"
               }
             }
           }
@@ -144,14 +144,14 @@
         }
       }
     },
-    "c:\\Users\\DUICE\\Software-Development\\snow-buddies\\snow-buddies.domain\\snow-buddies.domain.csproj": {
+    "C:\\Users\\DUICE\\Software-Development\\snow-buddies\\snow-buddies.domain\\snow-buddies.domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\DUICE\\Software-Development\\snow-buddies\\snow-buddies.domain\\snow-buddies.domain.csproj",
+        "projectUniqueName": "C:\\Users\\DUICE\\Software-Development\\snow-buddies\\snow-buddies.domain\\snow-buddies.domain.csproj",
         "projectName": "snow-buddies.domain",
-        "projectPath": "c:\\Users\\DUICE\\Software-Development\\snow-buddies\\snow-buddies.domain\\snow-buddies.domain.csproj",
+        "projectPath": "C:\\Users\\DUICE\\Software-Development\\snow-buddies\\snow-buddies.domain\\snow-buddies.domain.csproj",
         "packagesPath": "C:\\Users\\DUICE\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\DUICE\\Software-Development\\snow-buddies\\snow-buddies.domain\\obj\\",
+        "outputPath": "C:\\Users\\DUICE\\Software-Development\\snow-buddies\\snow-buddies.domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DUICE\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -223,11 +223,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "c:\\Users\\DUICE\\Software-Development\\snow-buddies\\snow-buddies.application\\snow-buddies.application.csproj": {
-                "projectPath": "c:\\Users\\DUICE\\Software-Development\\snow-buddies\\snow-buddies.application\\snow-buddies.application.csproj"
+              "C:\\Users\\DUICE\\Software-Development\\snow-buddies\\snow-buddies.application\\snow-buddies.application.csproj": {
+                "projectPath": "C:\\Users\\DUICE\\Software-Development\\snow-buddies\\snow-buddies.application\\snow-buddies.application.csproj"
               },
-              "c:\\Users\\DUICE\\Software-Development\\snow-buddies\\snow-buddies.domain\\snow-buddies.domain.csproj": {
-                "projectPath": "c:\\Users\\DUICE\\Software-Development\\snow-buddies\\snow-buddies.domain\\snow-buddies.domain.csproj"
+              "C:\\Users\\DUICE\\Software-Development\\snow-buddies\\snow-buddies.domain\\snow-buddies.domain.csproj": {
+                "projectPath": "C:\\Users\\DUICE\\Software-Development\\snow-buddies\\snow-buddies.domain\\snow-buddies.domain.csproj"
               }
             }
           }

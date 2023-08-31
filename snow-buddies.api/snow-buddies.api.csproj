@@ -1,10 +1,11 @@
-<Project Sdk="Microsoft.NET.Sdk.Web">
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
 
   <PropertyGroup>
     <TargetFramework>net7.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
     <RootNamespace>snow_buddies.api</RootNamespace>
+    <UserSecretsId>7f4490b5-2dba-4a36-aeb7-d5ac50104402</UserSecretsId>
   </PropertyGroup>
 
   <ItemGroup>
